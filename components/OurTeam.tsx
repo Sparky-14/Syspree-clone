@@ -73,7 +73,7 @@ export default function OurTeam() {
         <div className="team-text reveal reveal-delay-2">
           <h3 className="team-sub">OUR TEAM</h3>
           <p className="team-body">
-            At Syspree, our team is not just skilled and full of domain expertise —they&apos;re
+            At Syspree, our team is not just skilled and full of domain expertise -they&apos;re
             innovators who elevate industry standards.
           </p>
           <p className="team-body">

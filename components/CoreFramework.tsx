@@ -6,12 +6,12 @@ const CORE = [
   {
     letter: "C",
     name: "Consult",
-    text: "We start by deeply understanding your business, your audience, and your goals — building a strategy that's uniquely yours.",
+    text: "We start by deeply understanding your business, your audience, and your goals - building a strategy that's uniquely yours.",
   },
   {
     letter: "O",
     name: "Optimize",
-    text: "Executing what we strategized with precision. Doing what we say is a core habit at SySpree — always.",
+    text: "Executing what we strategized with precision. Doing what we say is a core habit at SySpree - always.",
   },
   {
     letter: "R",
@@ -21,7 +21,7 @@ const CORE = [
   {
     letter: "E",
     name: "Excel",
-    text: "Excellence in all we do. We don't just strive for success — we raise the bar and strive even harder.",
+    text: "Excellence in all we do. We don't just strive for success - we raise the bar and strive even harder.",
   },
 ];
 

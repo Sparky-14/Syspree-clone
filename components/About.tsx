@@ -36,7 +36,7 @@ const CORE_ITEMS = [
   {
     letter: "E",
     name: "Excel",
-    desc: "Excellence in all we do. We don't just strive for success — we strive harder.",
+    desc: "Excellence in all we do. We don't just strive for success - we strive harder.",
   },
 ];
 
@@ -64,7 +64,7 @@ export default function About() {
               <em>Powerhouse</em> of Digital Success
             </h2>
             <p className="sec-body">
-              At Syspree, we don&apos;t just create digital strategies — we
+              At Syspree, we don&apos;t just create digital strategies - we
               engineer business growth. As a powerhouse of digital success,
               we specialize in high-impact digital marketing, web development,
               and AI-driven marketing solutions designed to drive revenue,
@@ -75,7 +75,7 @@ export default function About() {
                 <div className={`about-pt reveal reveal-delay-${i + 1}`} key={point.title}>
                   <div className="about-pt-dot">✓</div>
                   <div className="about-pt-text">
-                    <strong>{point.title}</strong> — {point.text}
+                    <strong>{point.title}</strong> - {point.text}
                   </div>
                 </div>
               ))}

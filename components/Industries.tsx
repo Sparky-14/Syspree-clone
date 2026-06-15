@@ -37,7 +37,7 @@ export default function Industries() {
           </h2>
           <p className="sec-body">
             We don&apos;t do cookie-cutter marketing. Each industry has its own
-            buyer journey, seasonality, and competitive landscape — and we know them all.
+            buyer journey, seasonality, and competitive landscape - and we know them all.
           </p>
         </div>
         <div className="ind-grid">
